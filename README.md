@@ -1,8 +1,25 @@
-# React + Vite
+# Dark Portfolio - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a dark-themed portfolio project built using React and Vite. It is designed to showcase projects, skills, and achievements in an elegant and modern way.
 
-Currently, two official plugins are available:
+## Deployment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project is live and can be viewed at: [https://stday-71c00.web.app/](https://stday-71c00.web.app/)
+
+## Repository
+
+The source code is available on GitHub: [https://github.com/jamalihassan0307/dark-portfolio-react-vite](https://github.com/jamalihassan0307/dark-portfolio-react-vite)
+
+## Features
+
+- Fully responsive dark-themed design
+- Project showcase section
+- About and Contact sections
+- Built with modern web technologies for speed and performance
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jamalihassan0307/dark-portfolio-react-vite.git
+   cd dark-portfolio-react-vite
